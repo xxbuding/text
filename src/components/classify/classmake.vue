@@ -1,5 +1,7 @@
 <template>
-  <router-view></router-view>
+  <div class="mak11e">
+      make
+  </div>
 </template>
 
 <script>
@@ -8,6 +10,6 @@ export default {
 }
 </script>
 
-<style>
+<style lang="scss" scoped>
 
 </style>

@@ -1,0 +1,325 @@
+{
+    "imgData": [
+        "https://static.mymro.cn//newweb//Content/images/banner/banner20211209_shougongju.png",
+        "https://static.mymro.cn//newweb//Content/images/banner/banner202111_snow.png",
+        "https://static.mymro.cn//newweb//Content/images/banner/banner202111_stanley.png",
+        "https://static.mymro.cn//newweb//Content/images/banner/banner202112_reg.png",
+        "https://static.mymro.cn//newweb//Content/images/banner/banner202111_klwe.png",
+        "https://static.mymro.cn//newweb//Content/images/banner/banner202110_winter2.png"
+    ],
+    "imgData2":[
+        {
+            "name":"我的订单",
+            "pic":"https://m.mymro.cn/static/images/cate/icon-order.png",
+            "component":"classify"            
+
+        },
+        {
+            "name":"工具耗材",
+            "pic":"https://m.mymro.cn/static/images/cate/icon-203890.png",
+            "component":"classify"            
+
+        },
+        {
+            "name":"个人防护",
+            "pic":"https://m.mymro.cn/static/images/cate/icon-203892.png",
+            "component":"classify"            
+
+        },
+        {
+            "name":"安全措施",
+            "pic":"https://m.mymro.cn/static/images/cate/icon-203893.png",
+            "component":"classify"            
+
+        },
+        {
+            "name":"测量检测",
+            "pic":"https://m.mymro.cn/static/images/cate/icon-203903.png",
+            "component":"classify"            
+
+        },
+        {
+            "name":"照明",
+            "pic":"https://m.mymro.cn/static/images/cate/icon-203887.png",
+            "component":"classify"            
+
+        },
+        {
+            "name":"办公用品",
+            "pic":"https://m.mymro.cn/static/images/cate/icon-203899.png",
+            "component":"classify"            
+
+        },
+        {
+            "name":"配电工控",
+            "pic":"https://m.mymro.cn/static/images/cate/icon-203891.png",
+            "component":"classify"            
+
+        },
+        {
+            "name":"机电转动",
+            "pic":"https://m.mymro.cn/static/images/cate/icon-203894.png",
+            "component":"classify"            
+
+        },
+        {
+            "name":"更多",
+            "pic":"https://m.mymro.cn/static/images/cate/icon-more.png",
+            "component":"classify"            
+        }
+    ],
+    "imgData3":[
+        {
+            "id":"20",
+            "name":"固安捷优选 公制全抛光镀铬两用扳手",
+            "price1":"5",
+            "price2":"7",
+            "pic":"https://static.mymro.cn/product_images_new/350/4K9/2017082904.jpg"
+        },
+        {
+            "id":"21",
+            "name":"Honeywell Rider低帮运动式防砸,防刺穿,防静电安全鞋",
+            "price1":"139",
+            "price2":"00",
+            "pic":"https://static.mymro.cn/product_images_new/350/1N0/2013032613262924877.JPG"
+        },
+        {
+            "id":"22",
+            "name":"金佰利 X60大卷卷筒式全能擦拭布",
+            "price1":"605",
+            "price2":"00",
+            "pic":"https://static.mymro.cn/product_images_new/350/1K5/3113_1_8432.jpg"
+        },
+        {
+            "id":"23",
+            "name":"宝工 专业型热熔胶枪",
+            "price1":"5",
+            "price2":"7",
+            "pic":"https://static.mymro.cn/product_images_new/350/4K9/2017082904.jpg"
+        },
+        {
+            "id":"24",
+            "name":"博世 100mm角磨机",
+            "price1":"5",
+            "price2":"7",
+            "pic":"https://static.mymro.cn/product_images_new/350/4K9/2017082904.jpg"
+        },
+        {
+            "id":"25",
+            "name":"KENNEDY 多功能电工剪刀",
+            "price1":"5",
+            "price2":"7",
+            "pic":"https://static.mymro.cn/product_images_new/350/4K9/2017082904.jpg"
+        },
+        {
+            "id":"26",
+            "name":"10针本白纱线手套600g",
+            "price1":"5",
+            "price2":"7",
+            "pic":"https://static.mymro.cn/product_images_new/350/4K9/2017082904.jpg"
+        },
+        {
+            "id":"27",
+            "name":"Ammex 蓝色耐用型一次性丁腈无粉手套",
+            "price1":"5",
+            "price2":"7",
+            "pic":"https://static.mymro.cn/product_images_new/350/4K9/2017082904.jpg"
+        },
+        {
+            "id":"28",
+            "name":"合申 手用拉伸膜",
+            "price1":"5",
+            "price2":"7",
+            "pic":"https://static.mymro.cn/product_images_new/350/4K9/2017082904.jpg"
+        }
+    ],
+    "imgData4":[
+        {
+            "id":"29",
+            "logo":"固安捷优选",
+            "name":"封箱胶带 50um",
+            "price1":"4",
+            "price2":"90",
+            "pic":"https://static.mymro.cn/product_images_new/350/6v6/2017113001.jpg"
+        },
+        {
+            "id":"30",
+            "logo":"霍尼韦尔",
+            "name":"Honeywell H910Plus 防尘口罩",
+            "price1":"140",
+            "price2":"00",
+            "pic":"https://static.mymro.cn/product_images_new/350/10P/1570616400147.jpg"
+        },
+        {
+            "id":"31",
+            "logo":"公牛",
+            "name":"B7系列单开关有线接线板(新国标)",
+            "price1":"350",
+            "price2":"90",
+            "pic":"https://static.mymro.cn/product_images_new/350/6N8/2017091123.jpg"
+        },
+        {
+            "id":"32",
+            "logo":"美的",
+            "name":"电水壶",
+            "price1":"128",
+            "price2":"00",
+            "pic":"https://static.mymro.cn/product_images_new/350/4Y2/2016101815.jpg"
+        },
+        {
+            "id":"33",
+            "logo":"美的",
+            "name":"电饭煲",
+            "price1":"263",
+            "price2":"00",
+            "pic":"https://static.mymro.cn/product_images_new/350/4Y2/2016101801.jpg"
+        }
+    ],
+    "imgData5":[
+        {
+            "id":1,
+            "shopName":"个人防护",
+            "component":"classlistCont1"
+        },
+        {
+            "id":2,
+            "shopName":"安全防护",
+            "component":"classlistCont2"
+        },
+        {
+            "id":3,
+            "shopName":"物料搬运",
+            "component":"classlistCont3"
+        },
+        {
+            "shopName":"测量检测"
+        },
+        {
+            "shopName":"配电 工控"
+        },
+        {
+            "shopName":"刀具 量具"
+        },
+        {
+            "shopName":"清洁用品"
+        },
+        {
+            "shopName":"泵 管 阀"
+        },
+        {
+            "shopName":"气动系统"
+        },
+        {
+            "shopName":"紧固件"
+        },
+        {
+            "shopName":"个人防护"
+        },
+        {
+            "shopName":"安全防护"
+        },
+        {
+            "shopName":"物料搬运"
+        },
+        {
+            "shopName":"测量检测"
+        },
+        {
+            "shopName":"配电 工控"
+        },
+        {
+            "shopName":"刀具 量具"
+        },
+        {
+            "shopName":"清洁用品"
+        },
+        {
+            "shopName":"泵 管 阀"
+        },
+        {
+            "shopName":"气动系统"
+        },
+        {
+            "shopName":"紧固件"
+        }
+    ],
+    "imgData6":[
+        {
+            "name":"扳手",
+            "pic":"https://static.mymro.cn/product_images_new/categoryImg/100/204886_min_1631710460680.jpg"
+        },
+        {
+            "name":"手用套筒及配件",
+            "pic":"https://static.mymro.cn/product_images_new/categoryImg/100/204895_min_1631710460905.jpg"
+        },
+        {
+            "name":"螺丝批",
+            "pic":"https://static.mymro.cn/product_images_new/categoryImg/100/204900_min_1631710461193.jpg"
+        },
+        {
+            "name":"钳子",
+            "pic":"https://static.mymro.cn/product_images_new/categoryImg/100/204924_min_1631710461445.jpg"
+        },
+        {
+            "name":"刀具",
+            "pic":"https://static.mymro.cn/product_images_new/categoryImg/100/204945_min_1631710461630.jpg"
+        },
+        {
+            "name":"剪刀",
+            "pic":"https://static.mymro.cn/product_images_new/categoryImg/100/204968_min_1631710462242.jpg"
+        },
+        {
+            "name":"修边器",
+            "pic":"https://static.mymro.cn/product_images_new/categoryImg/100/204983_min_1631710462413.jpg"
+        },
+        {
+            "name":"卷尺",
+            "pic":"https://static.mymro.cn/product_images_new/categoryImg/100/204993_min_1631710462585.jpg"
+        },
+        {
+            "name":"锉",
+            "pic":"https://static.mymro.cn/product_images_new/categoryImg/100/205000_min_1631710462730.jpg"
+        },
+        {
+            "name":"锤 斧",
+            "pic":"https://static.mymro.cn/product_images_new/categoryImg/100/205018_min_1631710463273.jpg"
+        },
+        {
+            "name":"冲 凿 撬棒",
+            "pic":"https://static.mymro.cn/product_images_new/categoryImg/100/205030_min_1631710463443.jpg"
+        },
+        {
+            "name":"夹",
+            "pic":"https://static.mymro.cn/product_images_new/categoryImg/100/205034_min_1631710463657.jpg"
+        },
+        {
+            "name":"工具包 工具箱 工具车 工具柜",
+            "pic":"https://static.mymro.cn/product_images_new/categoryImg/100/205041_min_1631710463795.jpg"
+        },
+        {
+            "name":"综合手工具套装",
+            "pic":"https://static.mymro.cn/product_images_new/categoryImg/100/205049_min_1631710463949.jpg"
+        },
+        {
+            "name":"检视镜 磁性捡拾器",
+            "pic":"https://static.mymro.cn/product_images_new/categoryImg/100/205059_min_1631710464085.jpg"
+        },
+        {
+            "name":"断丝取出器",
+            "pic":"https://static.mymro.cn/product_images_new/categoryImg/100/205063_min_1631710464220.jpg"
+        },
+        {
+            "name":"锯",
+            "pic":"https://static.mymro.cn/product_images_new/categoryImg/100/205066_min_1631710464355.jpg"
+        },
+        {
+            "name":"划针 钩针",
+            "pic":"https://static.mymro.cn/product_images_new/categoryImg/100/205082_min_1631710464519.jpg"
+        },
+        {
+            "name":"拉铆枪",
+            "pic":"https://static.mymro.cn/product_images_new/categoryImg/100/205089_min_1631710464672.jpg"
+        }
+    ]
+    
+}
